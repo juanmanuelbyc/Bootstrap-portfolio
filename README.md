@@ -14,11 +14,11 @@ We are trying to apply what we have studied regarding:
 
 ## Authors
 
-👤 **Author1**
+👤 **Juan Diaz**
 
 - GitHub: [@juanmanuelbyc](https://github.com/juanmanuelbyc)
 
-👤 **Author2**
+👤 **Kidde George William**
 
 - GitHub: [kidde60c](https://github.com/kidde60)
 
